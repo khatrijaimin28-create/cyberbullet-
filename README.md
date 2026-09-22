@@ -1,4 +1,5 @@
 # CyberBullet
+<img src="bullet.jpg"
 
 **CyberBullet** is a desktop security toolkit that brings together a set of common defensive-security utilities in one dashboard. Built with Python and [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter), it's designed for learning, local diagnostics, and authorized testing on your own network and machines.
 
